@@ -299,39 +299,6 @@ I'm a **5th-year Cybersecurity Engineering student** at ENSA Marrakech, speciali
 
 <div align="center">
 
-### 💻 "Securing Tomorrow, Today"
-
-**👨‍💻 601 contributions in the last year**
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200" alt="Coding" />
-
-</div>
-
----
-
-<details>
-  <summary><b>📌 Pinned Repositories (Click to expand)</b></summary>
-  <br/>
-  <div align="center">
-    <a href="https://github.com/mourad-el-ouatik">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mourad-el-ouatik&repo=Smart-Phishing-Detector-for-Gmail&theme=radical" />
-    </a>
-    <a href="https://github.com/mourad-el-ouatik">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mourad-el-ouatik&repo=secure-apk-analyzer&theme=radical" />
-    </a>
-    <a href="https://github.com/mourad-el-ouatik">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mourad-el-ouatik&repo=Real-Time-Big-Data-Architecture&theme=radical" />
-    </a>
-    <a href="https://github.com/mourad-el-ouatik">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mourad-el-ouatik&repo=AI-based-incident-analyzer&theme=radical" />
-    </a>
-  </div>
-</details>
-
----
-
-<div align="center">
-
 ### ⭐ From [Mourad EL OUATIK](https://github.com/mourad-el-ouatik)
 
 *If you find my work interesting, don't forget to ⭐ my repositories!*
