@@ -54,10 +54,11 @@ Currently, I'm building several cybersecurity and SaaS projects while preparing 
 I'm currently looking for a **6-month PFE Internship (2027)** in:
 
 - Cybersecurity Engineering
-- DevSecOps
-- Cloud Security
-- Platform Engineering
-- AI for Cybersecurity
+- AI-powered Security Automation
+- SOC & Threat Detection
+- GRC Researcher
+- Zero Trust Architecture
+- Cloud & DevSecOps
 
 📍 **France**
 
