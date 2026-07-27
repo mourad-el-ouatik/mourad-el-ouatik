@@ -229,14 +229,23 @@ I'm a **5th-year Cybersecurity Engineering student** at ENSA Marrakech, speciali
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mourad-el-ouatik" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mourad-el-ouatik" alt="Top Languages" width="40%" />
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mourad-el-ouatik&show_icons=true&count_private=true&theme=radical&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mourad-el-ouatik&layout=compact&theme=radical&hide_border=true"
+    height="170"
+  />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mourad-el-ouatik&hide_border=true&theme=radical" alt="GitHub Streak" width="50%" />
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=mourad-el-ouatik&theme=radical&hide_border=true"
+    height="170"
+  />
+</p>
 
 ---
 
