@@ -37,10 +37,11 @@ I'm a **5th-year Cybersecurity Engineering student** at **ENSA Marrakech**, spec
 My main interests are:
 
 - 🔐 Cybersecurity Engineering
-- ☁️ Cloud & DevSecOps
 - 🤖 AI-powered Security Automation
-- 🛡️ Zero Trust Architecture
 - 🔎 SOC & Threat Detection
+- 💼 GRC Researcher
+- 🛡️ Zero Trust Architecture
+- ☁️ Cloud & DevSecOps
 
 I enjoy designing practical security platforms that combine automation, cloud technologies, and artificial intelligence to solve real operational problems.
 
