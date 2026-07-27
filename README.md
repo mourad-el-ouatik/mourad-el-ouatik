@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mourad EL OUATIK
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+%26+AI+Researcher;Zero+Trust+%7C+AI-Driven+SOC+%7C+DevSecOps;Post-Quantum+Cryptography+Enthusiast;Building+the+Future+of+Secure+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+AI+Researcher;Zero+Trust+Architect;+AI-Driven+SOC+Engineer%7C+DevSecOps;Post-Quantum+Cryptography+Enthusiast;Building+the+Future+of+Secure+AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
