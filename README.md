@@ -183,6 +183,7 @@ Technologies:
 | FortiGate 7.6 Operator | ✅ |
 | Mobile Programming | ✅ |
 | Mobile Application Security | ✅ |
+| FortiNet NSE 3 Cybersecurity | ✅ |
 | Oracle Cloud Infrastructure Foundations Associate | 🔄 In Progress |
 
 ---
