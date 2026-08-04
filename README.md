@@ -162,9 +162,9 @@ Technologies:
 
 <div align="center">
 
-<img height="170" src="https://<YOUR_VERCEL_DOMAIN>/api?username=mourad-el-ouatik&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170" src="https://mourad-el-ouatik.vercel.app/api?username=mourad-el-ouatik&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://<YOUR_VERCEL_DOMAIN>/api/top-langs/?username=mourad-el-ouatik&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://mourad-el-ouatik.vercel.app/api/top-langs/?username=mourad-el-ouatik&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -222,7 +222,7 @@ Leadership
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mourad-el-ouatik)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://mourad-el-ouatik.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://mourad-el-ouatik.vercel.app/)
 
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mourad-el-ouatik)
 
