@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineering+Student;DevSecOps+%7C+Cloud+Security+%7C+AI;Building+Secure+Platforms+and+Automation;Open+to+PFE+Internship+%E2%80%93+France+%F0%9F%87%AB%F0%9F%87%B7" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineering+Student;GRC+%7C+DevSecOps+%7C+SOC+%7C+Cloud+Security+%7C+AI;Building+Secure+Platforms+and+Automation;Open+to+PFE+Internship+%E2%80%93+France+%F0%9F%87%AB%F0%9F%87%B7" />
 
 <br>
 
