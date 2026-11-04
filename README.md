@@ -222,7 +222,7 @@ Development of an Android application security analysis platform combining stati
 
 | Domain | Technologies |
 |---|---|
-| GRC & Frameworks | ISO 27001, ISO 27035, NIST CSF, NIST SP 800-207, DGSSI |
+| GRC & Frameworks | ISO 27001, ISO 27035, EBIOS RM, NIST CSF, NIST SP 800-207, DGSSI |
 | IAM & Zero Trust | Keycloak, Vault, Teleport, RBAC, VLAN |
 | SOC & SIEM | Wazuh, Suricata, Zeek |
 | Incident Response | TheHive, Cortex, n8n |
