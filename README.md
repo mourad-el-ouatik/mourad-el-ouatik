@@ -86,7 +86,7 @@ I am particularly interested in environments where governance, technical experti
 
 ### Governance, Risk & Compliance (GRC)
 
-<img src="https://img.shields.io/badge/ISO_27001-Information_Security-167D9A?style=flat"/> <img src="https://img.shields.io/badge/ISO_27035-Incident_Management-167D9A?style=flat"/> <img src="https://img.shields.io/badge/NIST_CSF-Risk_%26_Security-167D9A?style=flat"/> <img src="https://img.shields.io/badge/NIST_800--207-Zero_Trust-167D9A?style=flat"/>
+<img src="https://img.shields.io/badge/ISO_27001-Information_Security-167D9A?style=flat"/> <img src="https://img.shields.io/badge/ISO_27035-Incident_Management-167D9A?style=flat"/>  <img src="https://img.shields.io/badge/EBIOS_RM_%26_Risk_Management-167D9A?style=flat"/> <img src="https://img.shields.io/badge/NIST_CSF-Risk_%26_Security-167D9A?style=flat"/> <img src="https://img.shields.io/badge/NIST_800--207-Zero_Trust-167D9A?style=flat"/>
 
 - Information Security Management Systems (ISMS).
 - Security audits and maturity assessments.
